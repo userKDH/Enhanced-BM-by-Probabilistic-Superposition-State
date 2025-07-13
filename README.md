@@ -1,1 +1,2 @@
 # Enhanced-BM-by-Probabilistic-Superposition-State
+We provide the original code of the combinatorial optimization problems (COPs) addressed in our manuscript and supplemental material — including the Traveling Salesman Problem, Max-Cut, and the Capacitated Vehicle Routing Problem — along with the corresponding solvers: stationary_PSS_BM, nonstationary_PSS_BM, and the simulated annealing benchmark.
